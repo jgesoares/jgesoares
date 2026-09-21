@@ -1,4 +1,4 @@
-##Olá! Eu sou o João Gabriel  👋
+##Olá! Me chamo João Gabriel  👋
 
 ## Sobre mim:
 <div>
@@ -20,3 +20,9 @@
   <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
             
 </div><br>
+
+## 🌐 Minhas Redes Sociais
+  
+<div> 
+  <a href="[https://www.linkedin.com/in/ivisconfessor](https://www.linkedin.com/in/jo%C3%A3o-gabriel-eug%C3%AAnio-soares-2a6319265/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
