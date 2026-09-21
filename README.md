@@ -23,6 +23,9 @@
 
 ## 🌐 Minhas Redes Sociais
   
-<div> 
-  <a href="[https://www.linkedin.com/in/ivisconfessor](https://www.linkedin.com/in/jo%C3%A3o-gabriel-eug%C3%AAnio-soares-2a6319265/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-eug%C3%AAnio-soares-2a6319265/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
+
