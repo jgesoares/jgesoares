@@ -1,4 +1,4 @@
-##Olá! Me chamo João Gabriel  👋
+#Olá! Me chamo João Gabriel  👋
 
 ## Sobre mim:
 <div>
